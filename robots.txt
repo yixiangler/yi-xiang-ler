@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yixiangler.github.io/yi-xiang-ler/sitemap.xml
